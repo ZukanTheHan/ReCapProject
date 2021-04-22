@@ -1,0 +1,9 @@
+C:\Users\oguzh\OneDrive\Masaüstü\Araştırmalar ve okumalar\KODLAMA.İO\ReCapProject\ConsoleUI\bin\Debug\netstandard2.0\ConsoleUI.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\Araştırmalar ve okumalar\KODLAMA.İO\ReCapProject\ConsoleUI\bin\Debug\netstandard2.0\ConsoleUI.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Araştırmalar ve okumalar\KODLAMA.İO\ReCapProject\ConsoleUI\bin\Debug\netstandard2.0\ConsoleUI.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\Araştırmalar ve okumalar\KODLAMA.İO\ReCapProject\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\Araştırmalar ve okumalar\KODLAMA.İO\ReCapProject\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\Araştırmalar ve okumalar\KODLAMA.İO\ReCapProject\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\Araştırmalar ve okumalar\KODLAMA.İO\ReCapProject\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\Araştırmalar ve okumalar\KODLAMA.İO\ReCapProject\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.dll
+C:\Users\oguzh\OneDrive\Masaüstü\Araştırmalar ve okumalar\KODLAMA.İO\ReCapProject\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.pdb

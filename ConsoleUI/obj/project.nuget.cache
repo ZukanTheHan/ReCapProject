@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHIxxi/Eo8A3W6GharXlzcv89NszqvCh0B05S4hH3UD1/rdbjnwh9CgG2/HJfNZmaBAg5COk5PHyAe0mID3ukA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oguzh\\OneDrive\\Masaüstü\\Araştırmalar ve okumalar\\KODLAMA.İO\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oguzh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\oguzh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
